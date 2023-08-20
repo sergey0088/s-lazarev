@@ -21,5 +21,6 @@
             "name": "sergey",
             "email": "s.e.r.g.e.y88@mail.ru"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
